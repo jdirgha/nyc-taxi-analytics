@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Raw TLC trip files (~700MB). Zone lookup stays in the repo.
+data/*.parquet
